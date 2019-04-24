@@ -1,4 +1,4 @@
-# IZP-FIT-VUT
+# [IZP] Introduction to Programming Systems - FIT BUT
 Projects for Introduction to Programming Systems course at FIT BUT. (C)
 
 1.  Working with text (3.3/5)
